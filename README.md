@@ -5,7 +5,7 @@ The only thing you would need includes docker and .NET on your system, the rest 
 
 To run, use something like postman and run commands such as get or post with this kind of URL http://localhost:5000/api/artist where you can replace artist with the other APIs but keep the rest. For post on postman, have a raw body and for each type of API data type, input the JSON data in there but you can personalise the JSON data
 
-##These are the commands you need to run
+## These are the commands you need to run
 docker compose down --volumes --rmi all
 docker compose up --build -d
 
