@@ -1,0 +1,15 @@
+// {
+//   "Logging": {
+//     "LogLevel": {
+//       "Default": "Information",
+//       "Microsoft.AspNetCore": "Warning"
+//     }
+//   },
+//     "MongoDB": {
+//     "MongoDbSettings": {
+//     "ConnectionURI": "mongodb+srv://joshpeyton04:G4su5U8ipMoS5bj8@sit314.hext4aw.mongodb.net/art_gallery?retryWrites=true&w=majority", 
+//     "DatabaseName": "art_gallery" 
+//     }
+//   },
+//   "AllowedHosts": "*"
+// }
