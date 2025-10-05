@@ -1,5 +1,5 @@
 # Added Information
-FYI, I've uploaded previous versions of the code but the one you want to look at is Project Final 2 being the latest version. Ignore the json file since that's a reference for myself but for the .zpi file, unzip it to then run.
+FYI, I've uploaded previous versions of the code but the one you want to look at is Project Final 2 being the latest version and for the .zpi file, unzip it to then run.
 
 The only thing you would need includes docker and .NET on your system, the rest is done for you with the code
 
