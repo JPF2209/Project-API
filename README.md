@@ -1,15 +1,15 @@
-*Added Information
+#Added Information
 FYI, I've uploaded previous versions of the code but the one you want to look at is Project Final 2 being the latest version.
 
 The only thing you would need includes docker and .NET on your system, the rest is done for you with the code
 
 To run, use something like postman and run commands such as get or post with this kind of URL http://localhost:5000/api/artist where you can replace artist with the other APIs but keep the rest. For post on postman, have a raw body and for each type of API data type, input the JSON data in there but you can personalise the JSON data
 
-**These are the commands you need to run
+##These are the commands you need to run
 docker compose down --volumes --rmi all
 docker compose up --build -d
 
-** Artifact Sample JSON
+## Artifact Sample JSON
 {
   "id": "6836a16869644d972a87f764",
   "title": "Exhibit A",
@@ -51,14 +51,14 @@ docker compose up --build -d
   }
 }
 
-** Artifact Type Sample JSON
+## Artifact Type Sample JSON
 {
   "id": "60f7b2c4e3a3f93d2c1d3d7e",
   "title": "Sculpture",
   "description": "Three-dimensional artworks carved or molded from various materials."
 }
 
-** Artist Sample JSON
+## Artist Sample JSON
 {
   "id": "6836a16869644d972a87f763",
   "name": "Test Artist",
@@ -69,7 +69,7 @@ docker compose up --build -d
   "description": "Description"
 }
 
-** Exhibition Sample JSON
+## Exhibition Sample JSON
 {
   "id": "60f7b2c4e3a3f93d2c1d3d7e",
   "title": "Exhibit A",
